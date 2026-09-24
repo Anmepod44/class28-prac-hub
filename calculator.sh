@@ -10,7 +10,7 @@ div() {
     exit 1
   fi
   echo $(($1 / $2))
-}
+} 
 
 case "$1" in
   add) add "$2" "$3" ;;
@@ -21,4 +21,4 @@ case "$1" in
     echo "Usage: $0 {add|sub|mul|div} a b"
     exit 1
     ;;
-esac
+esac 
