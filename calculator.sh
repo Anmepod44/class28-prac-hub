@@ -21,4 +21,7 @@ case "$1" in
     echo "Usage: $0 {add|sub|mul|div} a b"
     exit 1
     ;;
-esac 
+esa
+# calculator.sh - tiny Bash calculator used in the GitHub lesson
+# # Updated by Vanessa for GitHub pull request practice 
+change
